@@ -1,0 +1,5 @@
+ - tx durian,  c920-fhd.sh 4mbit testattu
+ - rx durian,  obs pieni rtpjitterbuffer ja avdec_h264 	OK
+ - rx flareon, glimagesink äxässä 			OK
+ - rx phoenix, rpi3 glimagesink äxässä	 		OK
+ - stream,     durian VAAPI 1080p30 @ 2Mbit             OK

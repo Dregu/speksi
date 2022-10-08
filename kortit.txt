@@ -1,0 +1,6 @@
+ASENNUS
+
+ - aja kortille raspbian buster lite -image
+ - apt update && apt upgrade
+ - raspi-config (locale, reso 1080p, mem split 64, VC3 fKMS, SSH, autologin...)
+ - apt install gstreamer1.0-tools gstreamer1.0-omx gstreamer1.0-plugins-{good,bad} unclutter
